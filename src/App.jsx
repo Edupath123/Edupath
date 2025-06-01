@@ -11,7 +11,7 @@ import ScreenshotCarousel from "./Components/howwork/howwork";
 import TopCounselors from "./Components/Testonomial/testonomial";
 import AppDownloadSection from "./Components/download/download";
 import Footer from "./Components/Footer/footer";
-import Loader from "./Components/Loader/Loader"; // Import loader
+import Loader from "./Components/Loader/loader"; // Import loader
 
 function App() {
   const [orderPopup, setorderPopup] = useState(false);
